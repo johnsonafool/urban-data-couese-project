@@ -11,6 +11,9 @@ dependencies:
   '@deck.gl/core':
     specifier: ^9.0.1
     version: 9.0.1
+  '@deck.gl/layers':
+    specifier: ^9.0.1
+    version: 9.0.1(@deck.gl/core@9.0.1)(@loaders.gl/core@4.1.4)(@luma.gl/core@9.0.6)(@luma.gl/engine@9.0.6)
   '@deck.gl/mapbox':
     specifier: ^9.0.1
     version: 9.0.1(@deck.gl/core@9.0.1)(@luma.gl/core@9.0.6)
